@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="112" fill="#0A0A0A"/>
+  
+  <!-- Rupee symbol base circle -->
+  <circle cx="256" cy="230" r="130" fill="none" stroke="#2563EB" stroke-width="28"/>
+  
+  <!-- Rupee Rs symbol -->
+  <text x="256" y="275" 
+    font-family="serif" 
+    font-size="140" 
+    font-weight="900" 
+    fill="#FFFFFF" 
+    text-anchor="middle">₹</text>
+  
+  <!-- Purpose tag line at bottom -->
+  <rect x="156" y="390" width="200" height="6" rx="3" fill="#2563EB"/>
+  <rect x="196" y="408" width="120" height="6" rx="3" fill="#2563EB" opacity="0.5"/>
+
+</svg>
